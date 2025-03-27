@@ -1,0 +1,27 @@
+The Python Tutorial:
+
+easy to learn - syntax as like normal english
+powerful - versatile, cross-platform
+high-level data structures - list,tuple and dictionary
+object-oriented programming - classes, objects, encapsulation ,...
+dynamic typing - memory allocated for variables at run time
+interpreted - code executed line by line 
+scripting language - short & simple set of instructions, used for automating task or extnd functionality
+
+freely available as source - code is available in human readable format
+& binary form - as machine readable(ex: .exe)
+python.org contains - third party python modules - developed & maintained by individual/org outside core python. 
+	Ex: NumPy - install using pip
+
+Python interpreter - easily extended with new functions and data types implemented in C or C++.
+self-contained document
+
+description of standard objects and modules, see The Python Standard Library - library contains built-in modules
+ 	(written in C) that provide access to system functionality such as file I/O .
+The Python Language Reference - more formal definition of the language. 
+To write extensions in C or C++, read Extending and Embedding the Python Interpreter - can extend 
+	with new modules with functions & more. (with 3rd party library: Cython: like CPython or without 3rd party library) 
+
+and Python/C API Reference Manual. 
+
+
