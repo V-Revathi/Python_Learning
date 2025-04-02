@@ -1,0 +1,33 @@
+1. Whetting Your Appetite:
+task you’d like to automate- perform a search-and-replace over a large number of text files,
+ rename and rearrange a bunch of photo files in a complicated way.
+small custom database
+a specialized GUI application, or a simple game
+
+A specialized GUI application, or Graphical User Interface application, is a program designed with a user-friendly, visual interface that uses elements like windows, icons, and menus, tailored for a specific task or industry, rather than a general-purpose application. 
+work with several C/C++/Java libraries but find the usual write/compile/test/re-compile cycle is too slow - writing a test suite for such a library and find writing the testing code a tedious task
+A "test suite" is a collection of related test cases designed to verify a specific functionality or set of behaviors in a software application or system, enabling efficient management, execution, and reporting of test results. 
+
+
+A shell script is a text file that contains commands for a Unix operating system. It's a way to automate tasks by combining a sequence of commands into a single file. 
+A Windows batch file is a script file (with a .bat or .cmd extension) that contains a series of commands to be executed sequentially in the Windows command prompt or PowerShell, allowing for automation of tasks. 
+Python is simpler to use, available on Windows, macOS, and Unix operating systems, and will help you get the job done more quickly.
+
+python- high-level data types built in, such as flexible arrays and dictionaries.
+Python is applicable to a much larger problem domain than Awk or even Perl.
+AWK (/ɔːk/) is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool.
+Perl is a general purpose, high level interpreted and dynamic programming language. Perl supports both the procedural and Object-Oriented programming. Perl is a lot similar to C syntactically and is easy for the users who have knowledge of C, C++.(Text Processing).
+
+split your program into modules that can be reused in other Python programs.
+modules provide things like file I/O, system calls, sockets, and even interfaces to graphical user interface toolkits like Tk.-Tkinter is a Python binding to the Tk GUI toolkit, providing a way to create graphical user interfaces (GUIs) in Python, and is included with standard Python installations.
+
+ Python - save you considerable time during program development because no compilation and linking is necessary.
+
+Programs written in Python are typically much shorter than equivalent C, C++, or Java programs, for several reasons:
+    the high-level data types allow you to express complex operations in a single statement;
+    statement grouping is done by indentation instead of beginning and ending brackets;
+    no variable or argument declarations are necessary.
+Python is an extensible language, meaning you can extend its capabilities by integrating code written in other languages like C or C++, enhancing performance and allowing access to existing libraries. 
+
+
+simple expressions, statements and data types, through functions and modules, and finally touching upon advanced concepts like exceptions and user-defined classes.
